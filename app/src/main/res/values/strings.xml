@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TableLayout</string>
+    <string name="tv_name">Name</string>
+    <string name="tv_mail">Email</string>
+    <string name="cb_A">A</string>
+    <string name="cb_B">B</string>
+    <string name="cb_C">C</string>
+    <string name="tv_hobbies">Hobbies</string>
+    <string name="edT_name">Your name</string>
+    <string name="edT_mail">Your mail</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="bt_compl">Complete</string>
+    <string name="imge_thanos">IMG</string>
+    <string name="tv_gender">Gender</string>
+    <string name="rdMale">Male</string>
+    <string name="rdFamale">Famale</string>
+    <string name="tv_languages">Languages</string>
+    <string-array name="spinner_lan">
+        <item>VietNamese</item>
+        <item>English</item>
+        <item>French</item>
+        <item>Chinese</item>
+    </string-array>
+    <string name="tv_java">You have experience \n with Java framewoks</string>
+</resources>
